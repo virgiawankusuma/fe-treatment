@@ -1,6 +1,6 @@
 # fe-treatment
 ## Session 1
-Make Personal Page such as in the document [**Session-1**](https://github.com/virgiawankusuma/fe-treatment/blob/kangudin-section-1/session-1.pdf) with Bootstrap Version 5.1.  
+Make Personal Page such as in the document [**Session-1**](https://github.com/virgiawankusuma/fe-treatment/blob/master/session-1.pdf) with Bootstrap Version 5.1.  
 Guide:
 - Fork this repository
 - Make new branch with format : **yourname/section_1**.
