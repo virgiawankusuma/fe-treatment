@@ -1,6 +1,6 @@
 # fe-treatment
-## Section 1
-Make Personal Page such as in the document [Section-1](https://github.com/virgiawankusuma/fe-treatment/blob/kangudin-section-1/section-1.pdf) with Bootstrap Version 5.1.  
+## Session 1
+Make Personal Page such as in the document [Session-1](https://github.com/virgiawankusuma/fe-treatment/blob/kangudin-section-1/section-1.pdf) with Bootstrap Version 5.1.  
 Guide:
 - Fork this repository
 - Make new branch with format : yourname/section_1.
@@ -12,5 +12,5 @@ Requirement:
 - Make pull request to this repository before Monday, 26 April 2022.  
 
 
-## Secion 2
+## Session 1
 Coming Soon..
