@@ -3,7 +3,7 @@
 Make Personal Page such as in the document [**Session-1**](https://github.com/virgiawankusuma/fe-treatment/blob/master/session-1.pdf) with Bootstrap Version 5.1.  
 Guide:
 - Fork this repository
-- Make new branch with format : **yourname/section_1**.
+- Make new branch with format : **yourname/session_1**.
 - Lets code.
 
 Requirement:
