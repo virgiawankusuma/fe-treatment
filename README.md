@@ -28,3 +28,6 @@ Continue with Previous Project, make Experience Page such as in this document [*
   - Roughly it looks like the following [Example](https://github.com/virgiawankusuma/fe-treatment/blob/master/session-2-mobile.png)
 - Use Line Height too [**Line Height**](https://getbootstrap.com/docs/5.1/utilities/text/#line-height)
 - Make pull request to this repository before Friday, 29 April 2022 (Tell me if you need more time).
+
+## Session 3
+Coming soon..
