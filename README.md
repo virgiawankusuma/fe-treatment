@@ -44,7 +44,7 @@ Continue with Previous Project, make Skills Page such as in this document [**Ses
 - Use Font Awesome to make Icons [**Read the Docs**](https://fontawesome.com/docs).
 - Card Skills must have Shadow, No Border and Rounded, follow this guidence [**Shadow**](https://getbootstrap.com/docs/5.1/utilities/shadows/) | [**Border**](https://getbootstrap.com/docs/5.1/utilities/borders/#subtractive).
 - The Skills Container _in Mobile version_ must have 12 column in Mobile Version, follow this guidence [**Grid Responsive Classes**](https://getbootstrap.com/docs/5.1/layout/grid/#responsive-classes), Roughly it looks like the following [Example](https://github.com/virgiawankusuma/fe-treatment/blob/master/session-3-mobile.png)
-- Make pull request to this repository before Friday, 14 April 2022 (Tell me if you need more time).
+- Make pull request to this repository before Friday, 14 May 2022 (Tell me if you need more time).
 
 
 ## Session 4
